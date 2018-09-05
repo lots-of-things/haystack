@@ -644,7 +644,7 @@ The Ship Who Sang
 Shivering World
 The Shockwave Rider
 Side Show
-Signs of Life
+Signal,
 The Silk Code
 The Silkie
 Sinister Barrier
